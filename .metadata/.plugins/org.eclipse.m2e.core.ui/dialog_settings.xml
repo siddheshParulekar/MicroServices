@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="WikimediaConsumer3"/>
+			<item value="WikimediaConsumer2"/>
+			<item value="WikiMediaConsumer2"/>
+			<item value="WikiMediaConsumer"/>
+			<item value="WikiMediaProducer"/>
+			<item value="WikimediaProducer"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.WikimediaConsumer3"/>
+		</list>
+		<list key="groupId">
+			<item value="com.kafka"/>
+		</list>
+		<list key="artifactId">
+			<item value="WikimediaConsumer3"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.consumer3"/>
+			<item value="com.kafka"/>
+		</list>
+		<list key="name">
+			<item value="WikimediaConsumer3"/>
+			<item value="WikimediaConsumer2"/>
+			<item value="WikiMediaConsumer2"/>
+			<item value="WikiMediaConsumer"/>
+			<item value="WikiMediaProducer"/>
+		</list>
+		<list key="artifactId">
+			<item value="WikimediaConsumer3"/>
+			<item value="kafkaRealEgSts"/>
+			<item value="WikimediaConsumer2"/>
+			<item value="WikiMediaConsumer2"/>
+			<item value="WikiMediaConsumer"/>
+			<item value="WikiMediaProducer"/>
+			<item value="WikimediaProducer"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\user\Desktop\kafkaRealEgSts"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
